@@ -1,17 +1,15 @@
 # Facial-Expression-Recognition-with-CNNs
 Facial Expression Recognition with CNNs on TensorFlow-Keras with OpenCV and Python. Flask app was used to deploy the algorithm and get a web-interface.
 
-![](Outputs/video1.gif)
-
-Video source: https://www.youtube.com/watch?v=5w3cYtJekpw
-
-Algorithm output: https://youtu.be/ojB1LSCKUpM
+<p align="left">
+  <img src="Outputs/happy.png">
+</p>
 
 ![](Outputs/video2.gif)
 
-Video source: https://www.youtube.com/watch?v=B0ouAnmsO1Y
+Originl Video source: https://www.youtube.com/watch?v=B0ouAnmsO1Y
 
-Algorithm output: https://youtu.be/jzaEGQrXRtA
+My Algorithm Output: https://youtu.be/CyHkdoeqRQA
 
 # Overview
 
